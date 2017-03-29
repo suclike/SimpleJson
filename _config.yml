@@ -1,0 +1,8 @@
+title: SimpleJson
+description: The next generation JSON Parser for Android!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
